@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/ReactApp-using-TailWindCSS/static/css/main.b04c7971.css",
+    "main.js": "/ReactApp-using-TailWindCSS/static/js/main.7bfc34aa.js",
+    "static/media/laptop.jpg": "/ReactApp-using-TailWindCSS/static/media/laptop.45ddf500e572fb2f1d35.jpg",
+    "static/media/single.png": "/ReactApp-using-TailWindCSS/static/media/single.20196aa3e7e7fa48f8f7.png",
+    "static/media/double.png": "/ReactApp-using-TailWindCSS/static/media/double.8be045e6bb88be63d414.png",
+    "static/media/triple.png": "/ReactApp-using-TailWindCSS/static/media/triple.4eb8f19f4b4647321484.png",
+    "index.html": "/ReactApp-using-TailWindCSS/index.html",
+    "main.b04c7971.css.map": "/ReactApp-using-TailWindCSS/static/css/main.b04c7971.css.map",
+    "main.7bfc34aa.js.map": "/ReactApp-using-TailWindCSS/static/js/main.7bfc34aa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b04c7971.css",
+    "static/js/main.7bfc34aa.js"
+  ]
+}
